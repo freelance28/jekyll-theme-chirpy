@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://freelance28.github.io/jekyll-theme-chirpy/sitemap.xml
