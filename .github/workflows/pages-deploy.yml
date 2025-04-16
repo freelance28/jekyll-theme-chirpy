@@ -61,7 +61,7 @@ jobs:
   run: |
     bundle exec jekyll build --baseurl "/jekyll-theme-chirpy"
     # Create critical files:
-    touch _site/.nojekyll
+    #touch _site/.nojekyll
     echo "freelance28.github.io" > _site/CNAME    
 
   deploy:
